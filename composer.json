@@ -1,0 +1,17 @@
+{
+    "name": "rmncst/package-providers",
+    "description": "An simple packet with provider to using in applications with php container services.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "rmncst",
+            "email": "rmncst16@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PackageProviders\\": "src/"
+        }
+    }
+}
