@@ -5,7 +5,7 @@ namespace PackageProvider\Provider;
 class MiddlewareProvider {
 
     public function test() {
-        echo "It Works";
+        echo "It Works"; 
     }
 
 }
